@@ -4,7 +4,7 @@ const Navbar = ({onSearchChange}) => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
       <div className="container d-flex justify-content-between">
-        <h2 className="navbar-brand">Movie App</h2>
+        <h2 className="navbar-brand">Movie</h2>
         <form className="d-flex" role="search">
           <input
             className="form-control bg-dark text-light rounded-5"
